@@ -1,2 +1,1 @@
-# stash
-Stash Investments
+
